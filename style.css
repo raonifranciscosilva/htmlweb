@@ -1,0 +1,14 @@
+.texto {
+  background-color: aqua;
+  width: 50%;
+  height: 1000px;
+}
+.foto {
+  background-color: chocolate;
+  width: 50%;
+  height: 1000px;
+}
+.principal {
+  display: flex;
+  justify-content: center;
+}
